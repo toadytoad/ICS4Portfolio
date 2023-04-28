@@ -77,4 +77,6 @@ Next implement the following instance methods:
 
 Finally, use the Driver class to continue testing your object.
 
-# Congratulations! You're well on your way to becoming an OOP master!
+### Congratulations! You're well on your way to becoming an OOP master!
+
+[Home](../index.md)
