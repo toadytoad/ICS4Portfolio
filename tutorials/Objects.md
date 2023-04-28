@@ -63,7 +63,7 @@ Next, let's add some functionality to our class:
 Instance Methods are methods within a class which change the state of the object.
 Add the following method to the MyObject class:
 
-```
+```java
 public void decrement(){
   this.myPrivateNum--;
 }
