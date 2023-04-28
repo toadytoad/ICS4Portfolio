@@ -30,3 +30,5 @@ Include a variable representing the number of vacant rooms in the hotel. What if
 We can use overriding to do so. Simply redefine the getter method from the Building class, and implement the new program behaviour.
 
 Continue experimenting with these 3 classes using the Driver class.
+
+[Home](../index.md)
