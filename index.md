@@ -84,7 +84,10 @@ while True:
   
   The remaining of the implementation is left as an exercise to the reader.
   
-  ## helt or melt - MidnightSun CTF
+  ## Mathematics
+  
+  I'm currently an executive and soon to be president of my schools math club. I have achieved several awards such as a 1st place award on the Cayley contest, and several AIME qualifications. Hoping to qualify to the CMO next year.
+  
   
   ## AP tutorials
   
